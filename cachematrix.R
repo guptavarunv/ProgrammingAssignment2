@@ -2,7 +2,7 @@
 ## cacheSolve contains the main caching functionality. It checks for the 
 ## existence of the inverse of a matrix and pulls the data accordingly
 
-## Write a short comment describing this function
+
 
 makeCacheMatrix <- function(x = matrix()) {
 inv<-NULL
@@ -22,7 +22,8 @@ list(set =set ,get =get,getinverse =getinverse, setinverse =setinverse)
 }
 
 
-## Write a short comment describing this function
+## cacheSolve contains the main caching functionality. It checks for the 
+## existence of the inverse of a matrix and pulls the data accordingly
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
