@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix sets and gets the matrix and its inverse
+## cacheSolve contains the main caching functionality. It checks for the 
+## existence of the inverse of a matrix and pulls the data accordingly
 
 ## Write a short comment describing this function
 
